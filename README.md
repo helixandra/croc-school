@@ -1,4 +1,5 @@
-Мин Александра 
-Telegram: https://t.me/helixandraa
+# Мин Александра
+
+## Telegram: https://t.me/helixandraa
 
 Домашние задания для курса по Java от КРОК
